@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "848678717835",
+    "project_id": "dates-tags",
+    "storage_bucket": "dates-tags.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:848678717835:android:eb6033a8b520b0ba8a878e",
+        "android_client_info": {
+          "package_name": "com.datestags"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "848678717835-isvg3os4jhdo5ds1vidmctqjsntsjhss.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC5FTnGVeQLQwQR6VGkSNGtraTbaWT3ZOs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "848678717835-isvg3os4jhdo5ds1vidmctqjsntsjhss.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
